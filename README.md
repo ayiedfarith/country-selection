@@ -1,4 +1,5 @@
 # country-selection
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
 
 ## Project setup
 ```
